@@ -2,6 +2,9 @@ from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 from groq import Groq
 import os
+from dotenv import load_dotenv
+
+load_dotenv() # Load variables from .env file
 
 app = Flask(__name__, static_folder='.')
 CORS(app) 
@@ -16,7 +19,7 @@ def serve_static(path):
     return send_from_directory('.', path)
 
 # ---- Groq API Setup ----
-GROQ_API_KEY = "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"
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 client = Groq(api_key=GROQ_API_KEY)
 
 # Define the system prompt based on your website's focus (Britannia University)
