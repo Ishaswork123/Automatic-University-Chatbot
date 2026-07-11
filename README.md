@@ -95,7 +95,7 @@ Prospective students, parents, and staff visiting a university website usually h
 | Resource | Link |
 |---|---|
 | 🎥 Loom Walkthrough | [Watch the demo](https://www.loom.com/share/your-demo-link) |
-| 🌐 Live Website | [Visit live demo](https://your-live-demo-url.onrender.com) |
+| 🌐 Live Website | [Visit live demo](https://automatic-university-chatbot.onrender.com/) |
 | 🖼️ Screenshots | See [Screenshots](#-screenshots) below |
 
 ---
@@ -109,6 +109,13 @@ Prospective students, parents, and staff visiting a university website usually h
 | ![Homepage](./assets/screenshot-homepage.png) | ![Chat Open](./assets/screenshot-chat-open.png) |
 
 | Conversation Example | Mobile View |
+|---|---|
+| ![Conversation](./assets/screenshot-conversation.png) | ![Mobile](./assets/screenshot-mobile.png) |
+| About | Chat Widget Open |
+|---|---|
+| ![Homepage](./assets/screenshot-homepage.png) | ![Chat Open](./assets/screenshot-chat-open.png) |
+
+| Department Example 
 |---|---|
 | ![Conversation](./assets/screenshot-conversation.png) | ![Mobile](./assets/screenshot-mobile.png) |
 
