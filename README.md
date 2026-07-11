@@ -25,8 +25,8 @@
 
 <br/><br/>
 
-[![Watch Demo on Loom](https://img.shields.io/badge/▶_Watch_Demo-Loom-625DF5?style=for-the-badge)](https://www.loom.com/share/your-demo-link)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Render-46E3B7?style=for-the-badge)](https://your-live-demo-url.onrender.com)
+[![Watch Demo on Loom](https://img.shields.io/badge/▶_Watch_Demo-Loom-625DF5?style=for-the-badge)](https://www.loom.com/share/a13874dfabe740f1aeda9065e84ba28f)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Render-46E3B7?style=for-the-badge)](https://automatic-university-chatbot.onrender.com/)
 
 </div>
 
