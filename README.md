@@ -94,7 +94,7 @@ Prospective students, parents, and staff visiting a university website usually h
 
 | Resource | Link |
 |---|---|
-| 🎥 Loom Walkthrough | [Watch the demo](https://www.loom.com/share/your-demo-link) |
+| 🎥 Loom Walkthrough | [Watch the demo](https://www.loom.com/share/a13874dfabe740f1aeda9065e84ba28f) |
 | 🌐 Live Website | [Visit live demo](https://automatic-university-chatbot.onrender.com/) |
 | 🖼️ Screenshots | See [Screenshots](#-screenshots) below |
 
@@ -106,18 +106,18 @@ Prospective students, parents, and staff visiting a university website usually h
 
 | Homepage | Chat Widget Open |
 |---|---|
-| ![Homepage](./assets/screenshot-homepage.png) | ![Chat Open](./assets/screenshot-chat-open.png) |
+| ![Homepage](dashboard.jpeg) | ![Chat Open](/dashboard.jpeg) |
 
 | Conversation Example | Mobile View |
 |---|---|
-| ![Conversation](./assets/screenshot-conversation.png) | ![Mobile](./assets/screenshot-mobile.png) |
+| ![Conversation](moile.jpeg) | ![Mobile](moile.jpeg) |
 | About | Chat Widget Open |
 |---|---|
-| ![Homepage](./assets/screenshot-homepage.png) | ![Chat Open](./assets/screenshot-chat-open.png) |
+| ![Homepage](contact.jpeg) | ![Chat Open](./assets/screenshot-chat-open.png) |
 
 | Department Example 
 |---|---|
-| ![Conversation](./assets/screenshot-conversation.png) | ![Mobile](./assets/screenshot-mobile.png) |
+| ![Conversation](department.jpeg) | ![Mobile](./assets/screenshot-mobile.png) |
 
 </div>
 
