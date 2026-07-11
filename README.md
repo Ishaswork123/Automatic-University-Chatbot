@@ -104,20 +104,20 @@ Prospective students, parents, and staff visiting a university website usually h
 
 <div align="center">
 
-| Homepage | Chat Widget Open |
+| Homepage 
 |---|---|
-| ![Homepage](dashboard.jpeg) | ![Chat Open](/dashboard.jpeg) |
+| ![Homepage](dashboard.jpeg)
 
-| Conversation Example | Mobile View |
+Mobile View |
 |---|---|
-| ![Conversation](moile.jpeg) | ![Mobile](moile.jpeg) |
-| About | Chat Widget Open |
+| ![Conversation](moile.jpeg) 
+| About 
 |---|---|
-| ![Homepage](contact.jpeg) | ![Chat Open](./assets/screenshot-chat-open.png) |
+| ![Homepage](contact.jpeg) 
 
 | Department Example 
 |---|---|
-| ![Conversation](department.jpeg) | ![Mobile](./assets/screenshot-mobile.png) |
+| ![Conversation](department.jpeg)
 
 </div>
 
